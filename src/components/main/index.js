@@ -18,7 +18,7 @@ const cat_list = [
   },
   {
     id: 3,
-    name: "Pussy",
+    name: "Puss",
     category: "Tabby",
     img: "./images/puss.jpg",
     origin: "United Kingdom",
