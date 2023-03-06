@@ -1,0 +1,16 @@
+.header-title{
+    font-size: 37px;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    margin: 0.5rem 1rem;
+}
+.header-box{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.header-img{
+    width: 65px;
+    border-radius: 50%;
+}
